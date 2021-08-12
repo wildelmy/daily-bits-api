@@ -1,0 +1,21 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "email": "wildelmycolina@gmail.com",
+            "password": "1234"
+        }
+    ],
+    "statics": [
+        {   "userid": 1,
+            "html": 0,
+            "css": 0,
+            "js": 0,
+            "figma": 0,
+            "ux": 0,
+            "tiempo": 0,
+            "respuestas_correctas": 0,
+            "respuestas_incorrectas": 0
+        }
+    ]
+}
